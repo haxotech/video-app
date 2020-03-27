@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 6400,
+  "expoServerNgrokUrl": "https://sv-rr2.anonymous.videoapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.ax-43m.anonymous.videoapp.exp.direct",
+  "ngrokPid": 3844,
+  "webpackServerPort": 19006
+}

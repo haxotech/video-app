@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60114446297",
+    "firebase_url": "https://videoapp-1585181857488.firebaseio.com",
+    "project_id": "videoapp-1585181857488",
+    "storage_bucket": "videoapp-1585181857488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60114446297:android:7132b102bdb22a13d29bc8",
+        "android_client_info": {
+          "package_name": "com.brentvatne.react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60114446297-sv67a5v8264eogffm3vi5sencgog661l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brentvatne.react",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "60114446297-ifu9281i9imqtvcujv2qql91umvg5mrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxfCH4LGD3fjsjLt7pTLa7CRWv7mt6Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60114446297-ifu9281i9imqtvcujv2qql91umvg5mrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
